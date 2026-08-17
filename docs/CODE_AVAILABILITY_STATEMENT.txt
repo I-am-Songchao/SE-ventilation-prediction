@@ -1,0 +1,3 @@
+Code availability
+
+The analytical code used for cohort construction, data preprocessing, model development, internal and temporal validation, external validation, sensitivity analyses, and generation of the reported results is publicly available in the GitHub repository "SE-ventilation-prediction". Following release of the archived repository version, a permanent Zenodo DOI will be provided. Owing to the data-use requirements of MIMIC-IV and eICU-CRD, patient-level source data are not included in the repository and must be accessed independently through PhysioNet by credentialed users.
