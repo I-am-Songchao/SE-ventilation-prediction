@@ -1,0 +1,11 @@
+# Minimal Python dependencies.
+# Pin exact versions after confirming the final analysis environment.
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+openpyxl
+joblib
+tqdm

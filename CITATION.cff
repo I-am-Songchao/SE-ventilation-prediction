@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this repository."
+title: "SE-ventilation-prediction"
+type: software
+authors:
+  - family-names: Song
+    given-names: Chao
+  - family-names: Wang
+    given-names: Yanqi
+  - family-names: Liu
+    given-names: Meihan
+  - family-names: Zhang
+    given-names: Qingyu
+  - family-names: Liu
+    given-names: Qinghua
+repository-code: "https://github.com/I-am-Songchao/SE-ventilation-prediction"
+license: MIT
+version: 0.1.0
+date-released: 2026-08-17
+abstract: >-
+  Analysis workflow for development, temporal validation, and multicenter external
+  validation of an early prediction model for persistent invasive mechanical
+  ventilation or death by 72 hours in critically ill patients with status epilepticus
+  using MIMIC-IV and eICU-CRD.
+keywords:
+  - status epilepticus
+  - invasive mechanical ventilation
+  - clinical prediction model
+  - MIMIC-IV
+  - eICU-CRD
+  - external validation
+  - ridge logistic regression
